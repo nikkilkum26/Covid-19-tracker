@@ -6,7 +6,7 @@ import Map from './components/Map'
 import Table from './components/Table';
 import {sortData ,printNice} from './helper';
 import LineGraph from './components/LineGraph'
-import "leaflet/dist/leaflet.css";
+
 
 
 function App() {
