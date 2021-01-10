@@ -2,7 +2,7 @@ import React ,{useState,useEffect}from 'react';
 import './App.css'
 import { FormControl, Select, MenuItem ,Card, CardContent} from '@material-ui/core';
 import InfoBox from './components/infoBox';
-import Map from './components/Map'
+import Map from './components/Map';
 import Table from './components/Table';
 import {sortData ,printNice} from './helper';
 import LineGraph from './components/LineGraph'
