@@ -1,5 +1,5 @@
 import React ,{useState,useEffect}from 'react';
-import './App.css';
+import './App.css'
 import { FormControl, Select, MenuItem ,Card, CardContent} from '@material-ui/core';
 import InfoBox from './components/infoBox';
 import Map from './components/Map'
